@@ -2,4 +2,6 @@
 
 ## environment requirements
 
+paddlepaddle==0.30.0
+
 ## code
